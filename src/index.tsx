@@ -5,7 +5,6 @@ import { api, network } from 'config';
 import ReactDOM from 'react-dom/client';
 import { CoreContextProvider } from 'core';
 import * as serviceWorker from './serviceWorker';
-import { RoomContextProvider } from 'context/room';
 import { DappProvider } from '@elrondnetwork/dapp-core/wrappers';
 import { SignTransactionsModals, TransactionsToastList } from '@elrondnetwork/dapp-core/UI';
 import { BrowserRouter } from 'react-router-dom';
@@ -19,9 +18,7 @@ root.render(
 				<CoreContextProvider api={api}>
 					<TransactionsToastList successfulToastLifetime={5000} className="" />
 					<SignTransactionsModals />
-					<RoomContextProvider>
-						<App />
-					</RoomContextProvider>
+					<App />
 				</CoreContextProvider>
 			</DappProvider>
 		</BrowserRouter>
