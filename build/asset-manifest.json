@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbd4d652.chunk.css",
+    "main.js": "/static/js/main.2b74181f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.47745f57.js",
+    "static/js/2.c8cac111.chunk.js": "/static/js/2.c8cac111.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.c8cac111.chunk.js.LICENSE.txt": "/static/js/2.c8cac111.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Arcadepix.8f060680.ttf",
+    "static/media/arrow-left.13754cd6.svg": "/static/media/arrow-left.13754cd6.svg",
+    "static/media/lock-open.ae92ead2.svg": "/static/media/lock-open.ae92ead2.svg",
+    "static/media/lock.4b162e41.svg": "/static/media/lock.4b162e41.svg",
+    "static/media/magic-wand.4e4403b7.svg": "/static/media/magic-wand.4e4403b7.svg",
+    "static/media/map.d5e8d141.png": "/static/media/map.d5e8d141.png",
+    "static/media/menu.c048beda.svg": "/static/media/menu.c048beda.svg",
+    "static/media/refresh.8dada4cd.svg": "/static/media/refresh.8dada4cd.svg",
+    "static/media/shield.63ec1791.png": "/static/media/shield.63ec1791.png",
+    "static/media/ship-icon.9758546b.png": "/static/media/ship-icon.9758546b.png",
+    "static/media/starbase-icon.bead8497.png": "/static/media/starbase-icon.bead8497.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47745f57.js",
+    "static/js/2.c8cac111.chunk.js",
+    "static/css/main.bbd4d652.chunk.css",
+    "static/js/main.2b74181f.chunk.js"
+  ]
+}

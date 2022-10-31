@@ -1,0 +1,105 @@
+
+html, body {
+	font-family: 'Arcadepix';
+	background-color: $backgroundLight;
+    height: 100%;
+    overflow: hidden;
+}
+
+body, .canvas-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+body, input, select, button {
+	margin: 0;
+	padding: 0;
+}
+
+h1, p {
+	margin: 0;
+	color: white;
+}
+
+img {
+    object-fit: contain;
+}
+
+.box {
+	border: 20px solid;
+	border-image: url('../images/uikit/window-panel-9x9.png') 26;
+	-webkit-border-image: url('../images/uikit/window-panel-9x9.png') 26;
+	-moz-border-image: url('../images/uikit/window-panel-9x9.png') 26;
+}
+
+.box-empty {
+	padding: 0 !important;
+	border: 20px solid;
+	border-image: url('../images/uikit/window-panel-empty.png') 24;
+	-webkit-border-image: url('../images/uikit/window-panel-empty.png') 24;
+	-moz-border-image: url('../images/uikit/window-panel-empty.png') 24;
+}
+
+.side-button {
+	width: 100%;
+}
+
+.disconnect-button {
+	margin: 0 auto !important;
+}
+
+button {
+    padding: 8px;
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+	color: white;
+    min-height: 48px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	border: 8px solid;
+	border-image: url('../images/uikit/button/button-normal.png') 8;
+	-webkit-border-image: url('../images/uikit/button/button-normal.png') 8;
+	-moz-border-image: url('../images/uikit/button/button-normal.png') 8;
+
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+
+	&.reversed {
+		border-image: url('../images/uikit/button/button-reversed.png') 8;
+		-webkit-border-image: url('../images/uikit/button/button-reversed.png') 8;
+		-moz-border-image: url('../images/uikit/button/button-reversed.png') 8;
+	}
+}
+
+.group-button {
+	&.left {
+		border-image: url('../images/uikit/button/button-normal-left.png') 8;
+		-webkit-border-image: url('../images/uikit/button/button-normal-left.png') 8;
+		-moz-border-image: url('../images/uikit/button/button-normal-left.png') 8;
+	}
+	&.center {
+		border-image: url('../images/uikit/button/button-normal-center.png') 8;
+		-webkit-border-image: url('../images/uikit/button/button-normal-center.png') 8;
+		-moz-border-image: url('../images/uikit/button/button-normal-center.png') 8;
+	}
+	&.right {
+		border-image: url('../images/uikit/button/button-normal-right.png') 8;
+		-webkit-border-image: url('../images/uikit/button/button-normal-right.png') 8;
+		-moz-border-image: url('../images/uikit/button/button-normal-right.png') 8;
+	}
+}
+
+.dapp-core-component__main__card {
+	background-color: transparent !important;
+}

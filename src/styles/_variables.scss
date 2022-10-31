@@ -1,0 +1,54 @@
+
+// View port size
+
+// Use: 
+//
+//	@media #{$lg} {
+//		text-align: center;
+//	}
+//
+
+$sm: "(max-width: 575px)";
+$md: "(max-width: 767px)";
+$lg: "(max-width: 991px)";
+$xl: "(max-width: 1199px)";
+
+$rsm: "(min-width: 576px)";
+$rmd: "(min-width: 768px)";
+$rlg: "(min-width: 992px)";
+$rxl: "(min-width: 1200px)";
+
+// Font size
+
+$font-weight-black: 800;
+$font-weight-bold: 700;
+$font-weight-medium: 600;
+$font-weight-regular: 400;
+$font-weight-light: 300;
+
+// Colors
+
+$black: #1C1F26;
+
+$primary: #FF672A;
+$primaryLight: #F2D9BE;
+$primaryLighter: #F4F3FF;
+$primaryAlt: #F4A180;
+
+$secondary: #06D3FA;
+
+$grayscaleDark: #4B4B4B;
+$grayscaleLight: #D7D7D7;
+$grayscaleLighter: #F2F2F2;
+$grayscaleLightest: #F8F9FA;
+
+$correct: #38AF23;
+$correctDark: #2b8339;
+$correctDarker: #1e692a;
+$wrong: #fd2a2a;
+
+$backgroundAlt: #272D33;
+$backgroundLight: #21272b;
+$backgroundDark: #1D2226;
+
+$border: #48525B;

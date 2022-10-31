@@ -1,0 +1,87 @@
+{"frames": {
+
+"thrusters-main-start-0.png":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-1.png":
+{
+	"frame": {"x":0,"y":113,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-2.png":
+{
+	"frame": {"x":0,"y":226,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-3.png":
+{
+	"frame": {"x":0,"y":339,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-4.png":
+{
+	"frame": {"x":0,"y":452,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-5.png":
+{
+	"frame": {"x":0,"y":565,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-6.png":
+{
+	"frame": {"x":0,"y":678,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-7.png":
+{
+	"frame": {"x":0,"y":791,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-main-start-8.png":
+{
+	"frame": {"x":0,"y":904,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+}},
+"animations": {
+	"thrusters": ["thrusters-main-start-0.png","thrusters-main-start-1.png","thrusters-main-start-2.png","thrusters-main-start-3.png","thrusters-main-start-4.png","thrusters-main-start-5.png","thrusters-main-start-6.png","thrusters-main-start-7.png","thrusters-main-start-8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "thrusters-main-start.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":1017},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5211ac872a242dbf34fe3e2333728397:88decf4ba0c60ffd6e2ffc46ea9c16c4:782afdab8f266171a4ce14894e7ecf57$"
+}
+}

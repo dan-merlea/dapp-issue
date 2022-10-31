@@ -1,0 +1,87 @@
+{"frames": {
+
+"thrusters-fire-move-0.png":
+{
+	"frame": {"x":0,"y":0,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-1.png":
+{
+	"frame": {"x":0,"y":113,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-2.png":
+{
+	"frame": {"x":0,"y":226,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-3.png":
+{
+	"frame": {"x":0,"y":339,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-4.png":
+{
+	"frame": {"x":0,"y":452,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-5.png":
+{
+	"frame": {"x":0,"y":565,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-6.png":
+{
+	"frame": {"x":0,"y":678,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-7.png":
+{
+	"frame": {"x":0,"y":791,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+},
+"thrusters-fire-move-8.png":
+{
+	"frame": {"x":0,"y":904,"w":128,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":113},
+	"sourceSize": {"w":128,"h":113}
+}},
+"animations": {
+	"thrusters": ["thrusters-fire-move-0.png","thrusters-fire-move-1.png","thrusters-fire-move-2.png","thrusters-fire-move-3.png","thrusters-fire-move-4.png","thrusters-fire-move-5.png","thrusters-fire-move-6.png","thrusters-fire-move-7.png","thrusters-fire-move-8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "thrusters-fire-move.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":1017},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:76df893529baa1f87d0456f93c2d33d1:8ca740f051d7dcb81eafc2fdf208f6d4:50ea7c5ad48b128a14a1a792c542bd55$"
+}
+}

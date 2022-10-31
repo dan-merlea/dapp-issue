@@ -1,0 +1,13 @@
+// @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+@font-face {
+    font-family: 'Arcadepix';
+    src: url(/styles/fonts/Arcadepix.ttf) format('truetype');
+}
+
+@import 'bootstrap-scss/bootstrap';
+
+// General
+@import 'styles/variables';
+@import 'styles/resets';
+@import 'styles/general';

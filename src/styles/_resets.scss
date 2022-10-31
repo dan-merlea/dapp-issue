@@ -1,0 +1,85 @@
+
+
+body, p {
+	margin: 0;
+}
+
+img {
+	object-fit: cover;
+}
+
+hr {
+	border-top: 1px solid $grayscaleLighter;
+}
+
+button:focus {
+	outline:0;
+}
+
+a, .link {
+	color: $primary;
+	text-decoration: none;
+	cursor: pointer;
+
+	&:hover {
+		color: $primaryLight;
+	}
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.noselect {
+	-webkit-touch-callout: none; /* iOS Safari */
+	  -webkit-user-select: none; /* Safari */
+	   -khtml-user-select: none; /* Konqueror HTML */
+		 -moz-user-select: none; /* Old versions of Firefox */
+		  -ms-user-select: none; /* Internet Explorer/Edge */
+			  user-select: none; /* Non-prefixed version, currently
+									supported by Chrome, Edge, Opera and Firefox */
+}
+
+.text-break-all {
+	word-break: break-all;
+}
+
+input {
+	outline: none;
+}
+
+input:autofill{
+    filter:none;
+}
+
+.form-control:focus {
+    color: inherit;
+    background-color: inherit;
+    border-color: inherit;
+    outline: 0;
+    box-shadow: inherit;
+}
+
+.modal-content {
+	background-color: $backgroundAlt;
+	color: $grayscaleLighter;
+}
+
+.modal-header {
+	border: none;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	justify-content: end !important;
+}
+
+.center {
+	text-align: center;
+}

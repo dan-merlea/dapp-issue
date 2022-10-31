@@ -1,0 +1,63 @@
+{
+    "name": "@krogan/client",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@elrondnetwork/dapp-core": "^2.1.2",
+        "@elrondnetwork/erdjs": "^11.1.1",
+        "@fortawesome/fontawesome-svg-core": "^6.1.1",
+        "@fortawesome/free-solid-svg-icons": "^6.1.1",
+        "@fortawesome/react-fontawesome": "^0.1.16",
+        "bootstrap-scss": "5.1.3",
+        "colyseus.js": "^0.14.13",
+        "jest-worker": "^28.1.3",
+        "moment": "^2.29.3",
+        "node-sass": "^7.0.1",
+        "peerjs": "^1.3.2",
+        "pixi-particles": "^4.3.1",
+        "pixi-viewport": "^4.34.4",
+        "pixi.js": "^6.4.2",
+        "qrcode": "^1.5.0",
+        "querystringify": "^2.2.0",
+        "react": "^18.0.0",
+        "react-bootstrap": "^2.2.3",
+        "react-device-detect": "^2.2.2",
+        "react-dom": "^18.0.0",
+        "react-helmet": "^6.1.0",
+        "react-router-dom": "^6.3.0",
+        "react-scripts": "^4.0.3",
+        "sass": "^1.50.0",
+        "yup": "^0.32.11"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.24",
+        "@types/querystringify": "^2.0.0",
+        "@types/react": "^18.0.0",
+        "@types/react-dom": "^18.0.0",
+        "@types/react-helmet": "^6.1.5",
+        "@types/react-router-dom": "^5.3.3",
+        "customize-cra": "^1.0.0",
+        "react-app-rewired": "^2.2.1"
+    },
+    "browser": {
+        "crypto": false,
+        "fs": false
+    },
+    "scripts": {
+        "lint": "eslint 'src/**/*.{ts,tsx}'",
+        "lint:fix": "eslint 'src/**/*.{ts,tsx}' --fix",
+        "start": "PORT=3005 react-app-rewired start",
+        "build": "GENERATE_SOURCEMAP=false react-app-rewired build"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app"
+        ]
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}

@@ -1,0 +1,69 @@
+{"frames": {
+
+"Missile-B-0.png":
+{
+	"frame": {"x":1,"y":79,"w":5,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":67,"w":5,"h":9},
+	"sourceSize": {"w":5,"h":76},
+	"anchor": {"x":0.5,"y":0.894737}
+},
+"Missile-B-1.png":
+{
+	"frame": {"x":8,"y":69,"w":5,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":57,"w":5,"h":19},
+	"sourceSize": {"w":5,"h":76},
+	"anchor": {"x":0.5,"y":0.763158}
+},
+"Missile-B-2.png":
+{
+	"frame": {"x":15,"y":45,"w":5,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":45,"w":5,"h":31},
+	"sourceSize": {"w":5,"h":76},
+	"anchor": {"x":0.5,"y":0.605263}
+},
+"Missile-B-3.png":
+{
+	"frame": {"x":15,"y":1,"w":5,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":34,"w":5,"h":42},
+	"sourceSize": {"w":5,"h":76},
+	"anchor": {"x":0.5,"y":0.460526}
+},
+"Missile-B-4.png":
+{
+	"frame": {"x":8,"y":1,"w":5,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":10,"w":5,"h":66},
+	"sourceSize": {"w":5,"h":76},
+	"anchor": {"x":0.5,"y":0.144737}
+},
+"Missile-B-5.png":
+{
+	"frame": {"x":1,"y":1,"w":5,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":76},
+	"sourceSize": {"w":5,"h":76},
+	"anchor": {"x":0.5,"y":0}
+}},
+"animations": {
+	"Missile-B": ["Missile-B-0.png","Missile-B-1.png","Missile-B-2.png","Missile-B-3.png","Missile-B-4.png","Missile-B-5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "green.png",
+	"format": "RGBA8888",
+	"size": {"w":21,"h":89},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce5ddae67b648eefdd40db3fb5b4bafc:03612533b3c081b909000d270e9a0ad4:88a31b4ea5b0b12da1c8dc038572b369$"
+}
+}
